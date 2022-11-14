@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there... 👋
 
 ![Yudhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhit08&show_icons=true&theme=radical)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhit08&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yudhit08&repo=github-readme-stats&show_icons=true&theme=radical" />
+</a>
+<
 <!--
 **yudhit08/yudhit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
