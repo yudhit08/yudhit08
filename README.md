@@ -7,7 +7,7 @@ I am an Informatic Engineering student at Riau University
 
 ![Yudhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhit08&show_icons=true&theme=radical&include_all_commits=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhit08&langs_count=3&theme=radical&layout=compact&custom_title=My%20Programming%20Language)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhit08&langs_count=2&theme=radical&layout=compact&custom_title=My%20Programming%20Language&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yudhit08/yudhit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
