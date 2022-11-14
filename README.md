@@ -1,4 +1,9 @@
-### Hi there... 👋
+## Hi there... 👋 
+
+My name is Yudhitya M. Renandra
+<br />
+<br />
+I am an Informatic Engineering student at Riau University
 
 ![Yudhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhit08&show_icons=true&theme=radical)
 <br />
