@@ -5,7 +5,7 @@ My name is Yudhitya M. Renandra
 <br />
 I am an Informatic Engineering student at Riau University
 
-![Yudhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhit08&show_icons=true&theme=radical&include_all_commits=true)
+![Yudhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhit08&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhit08&langs_count=2&theme=radical&layout=compact&custom_title=Most%20Used%20Language&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
