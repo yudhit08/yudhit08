@@ -1,25 +1,53 @@
-# Hi there... 👋 
+# Yudhitya M. Renandra
 
-My name is Yudhitya M. Renandra
-<br />
-<br />
-I am an Informatic Engineering student at Riau University
+Fullstack Web Developer | JavaScript & TypeScript Enthusiast  
 
-![Yudhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhit08&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhit08&langs_count=10&theme=radical&layout=compact&custom_title=Most%20Used%20Language&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**yudhit08/yudhit08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Fullstack Web Developer with experience building scalable web applications from backend architecture to frontend interfaces. I focus on writing clean, maintainable code and designing systems that are efficient and reliable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- MUI
+
+**Backend**
+- Node.js
+- Express.js
+- PostgreSQL
+- Prisma / Sequelize
+
+**Other Tools**
+- Git & GitHub
+- REST API Design
+- Linux Server Deployment
+- PM2
+- Docker (basic)
+
+---
+
+## What I Do
+
+- Build fullstack web applications
+- Design and optimize RESTful APIs
+- Develop database architecture
+- Deploy and maintain production servers
+- Improve system performance and scalability
+
+---
+
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yudhit08&theme=default&hide_border=true)
+
+---
+
+## Let's Connect
+
+- LinkedIn: ![My Linkedin](https://www.linkedin.com/in/yudhitya-mr)
+- Portfolio: ![yudhit.com](https://yudhit.com)
+- Email: yudhitrenandra99@gmail.com
