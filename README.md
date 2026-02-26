@@ -18,6 +18,7 @@ I am a Fullstack Web Developer with experience building scalable web application
 **Backend**
 - Node.js
 - Express.js
+- Laravel
 - PostgreSQL
 - Prisma / Sequelize
 
@@ -26,7 +27,7 @@ I am a Fullstack Web Developer with experience building scalable web application
 - REST API Design
 - Linux Server Deployment
 - PM2
-- Docker (basic)
+- Docker
 
 ---
 
