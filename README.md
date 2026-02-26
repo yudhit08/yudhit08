@@ -48,6 +48,6 @@ I am a Fullstack Web Developer with experience building scalable web application
 
 ## Let's Connect
 
-- LinkedIn: ![My Linkedin](https://www.linkedin.com/in/yudhitya-mr)
-- Portfolio: ![yudhit.com](https://yudhit.com)
+- LinkedIn: https://www.linkedin.com/in/yudhitya-mr
+- Portfolio: https://yudhit.com
 - Email: yudhitrenandra99@gmail.com
