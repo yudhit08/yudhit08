@@ -54,7 +54,7 @@ I'm **Yudhitya M. Renandra**, a fullstack web developer who enjoys connecting th
 
 ### My development toolkit
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -62,7 +62,7 @@ I'm **Yudhitya M. Renandra**, a fullstack web developer who enjoys connecting th
   <img src="https://img.shields.io/badge/Tailwind_CSS-083344?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-234A2A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -70,7 +70,7 @@ I'm **Yudhitya M. Renandra**, a fullstack web developer who enjoys connecting th
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Sequelize-1572B6?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
